@@ -1,0 +1,2 @@
+User-agent: *Allow:/
+Sitemap: https://a-garde.netlify.app/sitemap.xml
